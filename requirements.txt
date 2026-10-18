@@ -1,0 +1,2 @@
+requests>=2.32
+keyring>=25.0

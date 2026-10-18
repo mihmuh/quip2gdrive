@@ -1,0 +1,4 @@
+# Exported documents and manifest: personal content, never commit
+staging/
+.venv/
+__pycache__/
